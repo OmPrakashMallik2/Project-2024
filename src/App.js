@@ -1,22 +1,18 @@
 import React from 'react'
-import { useState } from 'react'
+import Nav from './component/Nav'
+import Header from './component/Header'
+import Top from './component/Top'
+import About from './component/About'
 
-const App = () => {
-
-  const [count, setCount] = useState(110)
-
-  const numInc = () => {
-    setCount(count+1)
-  }
+function App() {
   return (
-    <div className='m-5  p-5 bg-slate-700 text-white'>
-      <h1 className='font-bold text-5xl bg-blue-300 p-2'>{count}</h1>
-      <button onClick={numInc} className='font-bold bg-green-300 rounded m-2 justify-center p-2'>Click Here</button>
+    <div>
+      <Top/>
+      <Header/>
+      <Nav/>
+      <About/>
     </div>
   )
 }
 
 export default App
-
-
-//hello
