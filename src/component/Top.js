@@ -2,7 +2,6 @@ import React from 'react'
 import YouTubeIcon from '@mui/icons-material/YouTube';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import TwitterIcon from '@mui/icons-material/Twitter';
-import { Link } from '@mui/material';
 
 function Top() {
   return (
@@ -12,9 +11,9 @@ function Top() {
         <p className='text-xs'>Government of India | Ministry of Micro, Small & Medium Enterprises</p>
       </div>
       <div className='text-white flex'>
-        < TwitterIcon/>
-        <FacebookIcon/>
-        <YouTubeIcon/>
+        <TwitterIcon className=''/>
+        <FacebookIcon className=''/>
+        <YouTubeIcon className=''/>
       </div>
     </div>
   )
