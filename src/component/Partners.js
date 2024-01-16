@@ -13,7 +13,6 @@ import Logo11 from '../media/logo11.png'
 import Logo12 from '../media/logo12.png'
 import Logo13 from '../media/logo13.png'
 import Logo14 from '../media/logo14.png'
-import Logo15 from '../media/logo15.png'
 
 function Partners() {
   return (

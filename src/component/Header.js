@@ -11,11 +11,13 @@ function Header() {
             {/* Left */}
             <div className='flex items-center'>
                 <img src={yourImage} alt="Logo" />
+
                 <div className='px-3 items-center'>
                     <p className='font-bold text-xl'>सूक्ष्म , लघु और मध्यम उद्यम मंत्रालय</p>
                     <p className='font-medium text-lg'>MINISTRY OF</p>
                     <p className='font-extrabold text-xl'>Micro, Small & Medium Enterprises</p>
                 </div>
+
             </div>
 
             {/* Right */}
