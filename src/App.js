@@ -1,4 +1,5 @@
 import React from 'react'
+import { Routes, Route } from 'react-router-dom'
 import Nav from './component/Nav'
 import Header from './component/Header'
 import Home from './component/Home'
@@ -7,7 +8,7 @@ import Footer from './component/Footer'
 import Bottom from './component/Bottom'
 import SchemeBenefits from './component/SchemeBenefits'
 import WhatsNew from './component/WhatsNew'
-import { Routes, Route } from 'react-router-dom'
+import HowToRegister from './component/HowToRegister'
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/whatsnew" element={<WhatsNew />} />
         <Route path="/schemebenifits" element={<SchemeBenefits />} />
+        <Route path="/register" element={<HowToRegister />} />
       </Routes>
 
       <Footer />
