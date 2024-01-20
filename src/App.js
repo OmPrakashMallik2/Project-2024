@@ -9,6 +9,10 @@ import Bottom from './component/Bottom'
 import SchemeBenefits from './component/SchemeBenefits'
 import WhatsNew from './component/WhatsNew'
 import HowToRegister from './component/HowToRegister'
+import AboutScheme from './component/AboutScheme'
+import Faqs from './component/Faqs'
+import KnowledgeCentre from './component/KnowledgeCentre'
+import ContactUs from './component/ContactUs'
 
 function App() {
   return (
@@ -22,6 +26,10 @@ function App() {
         <Route path="/whatsnew" element={<WhatsNew />} />
         <Route path="/schemebenifits" element={<SchemeBenefits />} />
         <Route path="/register" element={<HowToRegister />} />
+        <Route path="/aboutscheme" element={<AboutScheme />} />
+        <Route path="/faqs" element={<Faqs />} />
+        <Route path="/knowledge" element={<KnowledgeCentre />} />
+        <Route path="/contactus" element={<ContactUs />} />
       </Routes>
 
       <Footer />
