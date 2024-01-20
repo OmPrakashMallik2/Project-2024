@@ -17,7 +17,7 @@ import Logo14 from '../media/logo14.png'
 function Partners() {
   return (
 
-    <div className='p-24'>
+    <div className='p-24 bg-gradient-to-t from-blue-100 via-white to-blue-100'>
       <div className='text-center'>
         <h1 className='py-2 pb-5 text-5xl font-bold'>Our Partners</h1>
         <p className='pb-10 text-m font-normal items-center'>PM Vishwakarma is a team effort! With partners like you, We can empower every Indian to achieve their dreams.</p>
