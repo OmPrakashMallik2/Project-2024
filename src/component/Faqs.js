@@ -15,44 +15,6 @@ function Faqs() {
       <h1 className='text-center'>FAQS</h1>
       <h1 className='text-center'>FAQS</h1>
       <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
-      <h1 className='text-center'>FAQS</h1>
     </div>
 
   )
